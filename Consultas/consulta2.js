@@ -3,7 +3,7 @@
     de infectados, muertes y vacunados
 */
 
-consulta2('Guatemala');
+consulta2('Portugal').pretty().toArray();;
 
 var consulta2 = function(pais)
 {
@@ -25,5 +25,5 @@ var consulta2 = function(pais)
         }
     },
     { $sort: {"_id.year":1 } }
-    ]).pretty();        
+    ]);        
 }    

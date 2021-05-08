@@ -36,4 +36,4 @@ return db.getCollection("proyecto").aggregate(
 
 };
 
-print(JSON.stringify(con("2021-05-03")));
+print(JSON.stringify(con("2020-12-01")));

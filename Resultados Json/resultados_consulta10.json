@@ -1,0 +1,56 @@
+{ 
+    "_id" : "Brazil", 
+    "infectados" : 1289186.0
+}
+{ 
+    "_id" : "Colombia", 
+    "infectados" : 317983.0
+}
+{ 
+    "_id" : "Argentina", 
+    "infectados" : 192944.0
+}
+{ 
+    "_id" : "Chile", 
+    "infectados" : 56109.0
+}
+{ 
+    "_id" : "Costa Rica", 
+    "infectados" : 29149.0
+}
+{ 
+    "_id" : "Paraguay", 
+    "infectados" : 24453.0
+}
+{ 
+    "_id" : "Ecuador", 
+    "infectados" : 18839.0
+}
+{ 
+    "_id" : "Bolivia", 
+    "infectados" : 15314.0
+}
+{ 
+    "_id" : "Guatemala", 
+    "infectados" : 15238.0
+}
+{ 
+    "_id" : "Honduras", 
+    "infectados" : 13574.0
+}
+{ 
+    "_id" : "Venezuela", 
+    "infectados" : 10937.0
+}
+{ 
+    "_id" : "El Salvador", 
+    "infectados" : 7112.0
+}
+{ 
+    "_id" : "Cuba", 
+    "infectados" : 3482.0
+}
+{ 
+    "_id" : "Nicaragua", 
+    "infectados" : 208.0
+}

@@ -1,0 +1,170 @@
+[
+    {
+        "_id" : {
+            "location" : "Africa", 
+            "month" : 3.0
+        }, 
+        "total_cases" : 4217313.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Africa", 
+            "month" : 4.0
+        }, 
+        "total_cases" : 4557699.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Africa", 
+            "month" : 5.0
+        }, 
+        "total_cases" : 4608099.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Asia", 
+            "month" : 3.0
+        }, 
+        "total_cases" : 28507133.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Asia", 
+            "month" : 4.0
+        }, 
+        "total_cases" : 39526308.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Asia", 
+            "month" : 5.0
+        }, 
+        "total_cases" : 42490581.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Europe", 
+            "month" : 3.0
+        }, 
+        "total_cases" : 39848358.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Europe", 
+            "month" : 4.0
+        }, 
+        "total_cases" : 44863478.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Europe", 
+            "month" : 5.0
+        }, 
+        "total_cases" : 45495800.0
+    }, 
+    {
+        "_id" : {
+            "location" : "European Union", 
+            "month" : 3.0
+        }, 
+        "total_cases" : 26786132.0
+    }, 
+    {
+        "_id" : {
+            "location" : "European Union", 
+            "month" : 4.0
+        }, 
+        "total_cases" : 30771214.0
+    }, 
+    {
+        "_id" : {
+            "location" : "European Union", 
+            "month" : 5.0
+        }, 
+        "total_cases" : 31281190.0
+    }, 
+    {
+        "_id" : {
+            "location" : "International", 
+            "month" : 3.0
+        }, 
+        "total_cases" : 721.0
+    }, 
+    {
+        "_id" : {
+            "location" : "International", 
+            "month" : 4.0
+        }, 
+        "total_cases" : 721.0
+    }, 
+    {
+        "_id" : {
+            "location" : "International", 
+            "month" : 5.0
+        }, 
+        "total_cases" : 721.0
+    }, 
+    {
+        "_id" : {
+            "location" : "North America", 
+            "month" : 3.0
+        }, 
+        "total_cases" : 35136720.0
+    }, 
+    {
+        "_id" : {
+            "location" : "North America", 
+            "month" : 4.0
+        }, 
+        "total_cases" : 37529488.0
+    }, 
+    {
+        "_id" : {
+            "location" : "North America", 
+            "month" : 5.0
+        }, 
+        "total_cases" : 37883550.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Oceania", 
+            "month" : 3.0
+        }, 
+        "total_cases" : 37911.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Oceania", 
+            "month" : 4.0
+        }, 
+        "total_cases" : 43570.0
+    }, 
+    {
+        "_id" : {
+            "location" : "Oceania", 
+            "month" : 5.0
+        }, 
+        "total_cases" : 44318.0
+    }, 
+    {
+        "_id" : {
+            "location" : "South America", 
+            "month" : 3.0
+        }, 
+        "total_cases" : 21149540.0
+    }, 
+    {
+        "_id" : {
+            "location" : "South America", 
+            "month" : 4.0
+        }, 
+        "total_cases" : 24878216.0
+    }, 
+    {
+        "_id" : {
+            "location" : "South America", 
+            "month" : 5.0
+        }, 
+        "total_cases" : 25547287.0
+    }
+]
