@@ -1,9 +1,39 @@
-use fase2;
-var fecha="2021-05-03";
-db.getCollection("covid").find(
-                        {  date:ISODate(fecha), 
-                           location:{$nin:["World","Asia","South America","Europe","European Union","North America","Oceania","Africa",""]}},
-                           {location:1,new_deaths:1,date:1})
-                           .sort({new_deaths:-1})
-                           .limit(1)
-                           .pretty();
+
+var con = function(fecha){
+return db.getCollection("covid").aggregate(
+
+	[
+		{
+			$match: {
+			    date:ISODate(fecha),
+			    location:{$nin:["World","Asia","South America","Europe","European Union","North America","Oceania","Africa",""]}
+			}
+		},
+
+		{
+			$project: {
+			    location:1,new_deaths:1,date:1
+			}
+		},
+
+		{
+			$sort: {
+			    new_deaths:-1
+			}
+		},
+
+		{
+			$limit: 
+			 1
+		},
+	],
+
+	{
+
+	}
+
+);
+
+};
+
+print(JSON.stringify(con("2021-05-03")));
