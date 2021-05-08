@@ -1,0 +1,643 @@
+{ 
+    "_batch" : [
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c81b"), 
+            "location" : "Belize", 
+            "date" : "2020-04-25T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c81a"), 
+            "location" : "Belize", 
+            "date" : "2020-04-24T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c819"), 
+            "location" : "Belize", 
+            "date" : "2020-04-23T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c818"), 
+            "location" : "Belize", 
+            "date" : "2020-04-22T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c817"), 
+            "location" : "Belize", 
+            "date" : "2020-04-21T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c816"), 
+            "location" : "Belize", 
+            "date" : "2020-04-20T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c815"), 
+            "location" : "Belize", 
+            "date" : "2020-04-19T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c814"), 
+            "location" : "Belize", 
+            "date" : "2020-04-18T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c813"), 
+            "location" : "Belize", 
+            "date" : "2020-04-17T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c812"), 
+            "location" : "Belize", 
+            "date" : "2020-04-16T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c811"), 
+            "location" : "Belize", 
+            "date" : "2020-04-15T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c810"), 
+            "location" : "Belize", 
+            "date" : "2020-04-14T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c80f"), 
+            "location" : "Belize", 
+            "date" : "2020-04-13T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c80e"), 
+            "location" : "Belize", 
+            "date" : "2020-04-12T00:00:00.000Z", 
+            "total_cases" : 14.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c80d"), 
+            "location" : "Belize", 
+            "date" : "2020-04-11T00:00:00.000Z", 
+            "total_cases" : 13.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c64c"), 
+            "location" : "Belgium", 
+            "date" : "2020-03-03T00:00:00.000Z", 
+            "total_cases" : 13.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c48b"), 
+            "location" : "Belarus", 
+            "date" : "2020-03-12T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c2e7"), 
+            "location" : "Barbados", 
+            "date" : "2020-03-26T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c2e6"), 
+            "location" : "Barbados", 
+            "date" : "2020-03-25T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c2e5"), 
+            "location" : "Barbados", 
+            "date" : "2020-03-24T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c2e4"), 
+            "location" : "Barbados", 
+            "date" : "2020-03-23T00:00:00.000Z", 
+            "total_cases" : 17.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c2e3"), 
+            "location" : "Barbados", 
+            "date" : "2020-03-22T00:00:00.000Z", 
+            "total_cases" : 14.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c140"), 
+            "location" : "Bangladesh", 
+            "date" : "2020-03-19T00:00:00.000Z", 
+            "total_cases" : 17.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803c13f"), 
+            "location" : "Bangladesh", 
+            "date" : "2020-03-18T00:00:00.000Z", 
+            "total_cases" : 14.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803bde8"), 
+            "location" : "Bahamas", 
+            "date" : "2020-03-31T00:00:00.000Z", 
+            "total_cases" : 14.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803bde7"), 
+            "location" : "Bahamas", 
+            "date" : "2020-03-30T00:00:00.000Z", 
+            "total_cases" : 14.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803bde6"), 
+            "location" : "Bahamas", 
+            "date" : "2020-03-29T00:00:00.000Z", 
+            "total_cases" : 11.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803bc36"), 
+            "location" : "Azerbaijan", 
+            "date" : "2020-03-14T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803bc35"), 
+            "location" : "Azerbaijan", 
+            "date" : "2020-03-13T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803bc34"), 
+            "location" : "Azerbaijan", 
+            "date" : "2020-03-12T00:00:00.000Z", 
+            "total_cases" : 11.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803bc33"), 
+            "location" : "Azerbaijan", 
+            "date" : "2020-03-11T00:00:00.000Z", 
+            "total_cases" : 11.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803bc32"), 
+            "location" : "Azerbaijan", 
+            "date" : "2020-03-10T00:00:00.000Z", 
+            "total_cases" : 11.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803ba7a"), 
+            "location" : "Austria", 
+            "date" : "2020-03-02T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803ba79"), 
+            "location" : "Austria", 
+            "date" : "2020-03-01T00:00:00.000Z", 
+            "total_cases" : 14.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8c2"), 
+            "location" : "Australia", 
+            "date" : "2020-02-28T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8c1"), 
+            "location" : "Australia", 
+            "date" : "2020-02-27T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8c0"), 
+            "location" : "Australia", 
+            "date" : "2020-02-26T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8bf"), 
+            "location" : "Australia", 
+            "date" : "2020-02-25T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8be"), 
+            "location" : "Australia", 
+            "date" : "2020-02-24T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8bd"), 
+            "location" : "Australia", 
+            "date" : "2020-02-23T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8bc"), 
+            "location" : "Australia", 
+            "date" : "2020-02-22T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8bb"), 
+            "location" : "Australia", 
+            "date" : "2020-02-21T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8ba"), 
+            "location" : "Australia", 
+            "date" : "2020-02-20T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b9"), 
+            "location" : "Australia", 
+            "date" : "2020-02-19T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b8"), 
+            "location" : "Australia", 
+            "date" : "2020-02-18T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b7"), 
+            "location" : "Australia", 
+            "date" : "2020-02-17T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b6"), 
+            "location" : "Australia", 
+            "date" : "2020-02-16T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b5"), 
+            "location" : "Australia", 
+            "date" : "2020-02-15T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b4"), 
+            "location" : "Australia", 
+            "date" : "2020-02-14T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b3"), 
+            "location" : "Australia", 
+            "date" : "2020-02-13T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b2"), 
+            "location" : "Australia", 
+            "date" : "2020-02-12T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b1"), 
+            "location" : "Australia", 
+            "date" : "2020-02-11T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8b0"), 
+            "location" : "Australia", 
+            "date" : "2020-02-10T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8af"), 
+            "location" : "Australia", 
+            "date" : "2020-02-09T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8ae"), 
+            "location" : "Australia", 
+            "date" : "2020-02-08T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8ad"), 
+            "location" : "Australia", 
+            "date" : "2020-02-07T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8ac"), 
+            "location" : "Australia", 
+            "date" : "2020-02-06T00:00:00.000Z", 
+            "total_cases" : 14.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8ab"), 
+            "location" : "Australia", 
+            "date" : "2020-02-05T00:00:00.000Z", 
+            "total_cases" : 13.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8aa"), 
+            "location" : "Australia", 
+            "date" : "2020-02-04T00:00:00.000Z", 
+            "total_cases" : 13.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8a9"), 
+            "location" : "Australia", 
+            "date" : "2020-02-03T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8a8"), 
+            "location" : "Australia", 
+            "date" : "2020-02-02T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f02ce0ffd41d803b8a7"), 
+            "location" : "Australia", 
+            "date" : "2020-02-01T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b500"), 
+            "location" : "Armenia", 
+            "date" : "2020-03-14T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b34e"), 
+            "location" : "Argentina", 
+            "date" : "2020-03-12T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b34d"), 
+            "location" : "Argentina", 
+            "date" : "2020-03-11T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b34c"), 
+            "location" : "Argentina", 
+            "date" : "2020-03-10T00:00:00.000Z", 
+            "total_cases" : 17.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b34b"), 
+            "location" : "Argentina", 
+            "date" : "2020-03-09T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b34a"), 
+            "location" : "Argentina", 
+            "date" : "2020-03-08T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b17f"), 
+            "location" : "Antigua and Barbuda", 
+            "date" : "2020-04-10T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b17e"), 
+            "location" : "Antigua and Barbuda", 
+            "date" : "2020-04-09T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b17d"), 
+            "location" : "Antigua and Barbuda", 
+            "date" : "2020-04-08T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b17c"), 
+            "location" : "Antigua and Barbuda", 
+            "date" : "2020-04-07T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b17b"), 
+            "location" : "Antigua and Barbuda", 
+            "date" : "2020-04-06T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b17a"), 
+            "location" : "Antigua and Barbuda", 
+            "date" : "2020-04-05T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b179"), 
+            "location" : "Antigua and Barbuda", 
+            "date" : "2020-04-04T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803b178"), 
+            "location" : "Antigua and Barbuda", 
+            "date" : "2020-04-03T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af94"), 
+            "location" : "Angola", 
+            "date" : "2020-04-17T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af93"), 
+            "location" : "Angola", 
+            "date" : "2020-04-16T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af92"), 
+            "location" : "Angola", 
+            "date" : "2020-04-15T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af91"), 
+            "location" : "Angola", 
+            "date" : "2020-04-14T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af90"), 
+            "location" : "Angola", 
+            "date" : "2020-04-13T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af8f"), 
+            "location" : "Angola", 
+            "date" : "2020-04-12T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af8e"), 
+            "location" : "Angola", 
+            "date" : "2020-04-11T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af8d"), 
+            "location" : "Angola", 
+            "date" : "2020-04-10T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af8c"), 
+            "location" : "Angola", 
+            "date" : "2020-04-09T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af8b"), 
+            "location" : "Angola", 
+            "date" : "2020-04-08T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af8a"), 
+            "location" : "Angola", 
+            "date" : "2020-04-07T00:00:00.000Z", 
+            "total_cases" : 17.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af89"), 
+            "location" : "Angola", 
+            "date" : "2020-04-06T00:00:00.000Z", 
+            "total_cases" : 16.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803af88"), 
+            "location" : "Angola", 
+            "date" : "2020-04-05T00:00:00.000Z", 
+            "total_cases" : 14.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803ac20"), 
+            "location" : "Algeria", 
+            "date" : "2020-03-08T00:00:00.000Z", 
+            "total_cases" : 19.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803ac1f"), 
+            "location" : "Algeria", 
+            "date" : "2020-03-07T00:00:00.000Z", 
+            "total_cases" : 17.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803ac1e"), 
+            "location" : "Algeria", 
+            "date" : "2020-03-06T00:00:00.000Z", 
+            "total_cases" : 17.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803ac1d"), 
+            "location" : "Algeria", 
+            "date" : "2020-03-05T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803ac1c"), 
+            "location" : "Algeria", 
+            "date" : "2020-03-04T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803aa6e"), 
+            "location" : "Albania", 
+            "date" : "2020-03-11T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803a6fd"), 
+            "location" : "Afghanistan", 
+            "date" : "2020-03-16T00:00:00.000Z", 
+            "total_cases" : 18.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803a6fc"), 
+            "location" : "Afghanistan", 
+            "date" : "2020-03-15T00:00:00.000Z", 
+            "total_cases" : 16.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803a6fb"), 
+            "location" : "Afghanistan", 
+            "date" : "2020-03-14T00:00:00.000Z", 
+            "total_cases" : 15.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803a6fa"), 
+            "location" : "Afghanistan", 
+            "date" : "2020-03-13T00:00:00.000Z", 
+            "total_cases" : 13.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803a6f9"), 
+            "location" : "Afghanistan", 
+            "date" : "2020-03-12T00:00:00.000Z", 
+            "total_cases" : 12.0
+        }, 
+        {
+            "_id" : ObjectId("60965f01ce0ffd41d803a6f8"), 
+            "location" : "Afghanistan", 
+            "date" : "2020-03-11T00:00:00.000Z", 
+            "total_cases" : 11.0
+        }
+    ], 
+    "_useReadCommands" : true, 
+    "_cursorid" : NumberLong(961224625925850097), 
+    "_ns" : "clase.proyecto", 
+    "_db" : {
+        "_mongo" : {
+            "slaveOk" : false, 
+            "host" : "localhost:27017", 
+            "defaultDB" : "test", 
+            "promptPrefix" : "", 
+            "authStatus" : {
+                "authRequired" : true, 
+                "replSetGetStatus" : false, 
+                "isMaster" : true
+            }, 
+            "_defaultSession" : {
+                "_serverSession" : {
+                    "handle" : {
+
+                    }
+                }, 
+                "_isExplicit" : false
+            }, 
+            "_readMode" : "commands"
+        }, 
+        "_name" : "clase", 
+        "_session" : {
+
+        }
+    }, 
+    "_collName" : "proyecto", 
+    "_cursorHandle" : {
+
+    }
+}
