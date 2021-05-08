@@ -2,7 +2,7 @@
     Consulta que agrupe la cantidad actual de contagios por país.
 */
 
-var fecha='2021-05-06';
+var fecha='2021-05-07';
 
 db.getCollection("proyecto").find(
     {

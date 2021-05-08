@@ -3,7 +3,7 @@ Consulta que agrupe la cantidad actual de contagios de los últimos 3 meses por
 continente.
 */
 
-var fecha = "2021-05-06";
+var fecha = "2021-05-07";
 db.proyecto.aggregate([
     {
         $match: {
@@ -16,13 +16,13 @@ db.proyecto.aggregate([
     { 
         $project: { 
              month: { $month: "$date" },
-             continent : 1,
+             location : 1,
              total_cases: 1
         }
     },
     { 
         "$group": { 
-            "_id": {continent:"$continent", month: "$month"},
+            "_id": {location:"$location", month: "$month"},
             total_cases : {$max : "$total_cases"}
         }
     },
@@ -31,4 +31,4 @@ db.proyecto.aggregate([
             "_id.location":1 , "_id.month":1
             }
     }
-])
+]).pretty().toArray();

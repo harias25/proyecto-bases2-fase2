@@ -1,144 +1,146 @@
-{ 
-    "_id" : {
-        "month" : 11.0, 
-        "year" : 2020.0
+[
+    {
+        "_id" : {
+            "month" : 11.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 156782.0, 
+        "muertes" : 1998.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 156782.0, 
-    "muertes" : 1998.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 5.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 3.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 7443.0, 
+        "muertes" : 160.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 7455.0, 
-    "muertes" : 421.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 10.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 5.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 7455.0, 
+        "muertes" : 421.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 65737.0, 
-    "muertes" : 536.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 12.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 12.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 115617.0, 
+        "muertes" : 2401.0, 
+        "vacunados" : 27786.0
     }, 
-    "casos" : 115617.0, 
-    "muertes" : 2401.0, 
-    "vacunados" : 27786.0
-}
-{ 
-    "_id" : {
-        "month" : 2.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 10.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 65737.0, 
+        "muertes" : 536.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 0.0, 
-    "muertes" : 0.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 9.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 2.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 0.0, 
+        "muertes" : 0.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 17530.0, 
-    "muertes" : 149.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 4.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 9.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 17530.0, 
+        "muertes" : 149.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 17602.0, 
-    "muertes" : 829.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 7.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 4.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 17602.0, 
+        "muertes" : 829.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 8931.0, 
-    "muertes" : 159.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 8.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 7.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 8931.0, 
+        "muertes" : 159.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 6940.0, 
-    "muertes" : 87.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 6.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 8.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 6940.0, 
+        "muertes" : 87.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 9641.0, 
-    "muertes" : 166.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 3.0, 
-        "year" : 2020.0
+    {
+        "_id" : {
+            "month" : 6.0, 
+            "year" : 2020.0
+        }, 
+        "casos" : 9641.0, 
+        "muertes" : 166.0, 
+        "vacunados" : 0.0
     }, 
-    "casos" : 7443.0, 
-    "muertes" : 160.0, 
-    "vacunados" : 0.0
-}
-{ 
-    "_id" : {
-        "month" : 4.0, 
-        "year" : 2021.0
+    {
+        "_id" : {
+            "month" : 2.0, 
+            "year" : 2021.0
+        }, 
+        "casos" : 84046.0, 
+        "muertes" : 3835.0, 
+        "vacunados" : 544048.0
     }, 
-    "casos" : 14771.0, 
-    "muertes" : 126.0, 
-    "vacunados" : 1538371.0
-}
-{ 
-    "_id" : {
-        "month" : 2.0, 
-        "year" : 2021.0
+    {
+        "_id" : {
+            "month" : 1.0, 
+            "year" : 2021.0
+        }, 
+        "casos" : 306838.0, 
+        "muertes" : 5576.0, 
+        "vacunados" : 304022.0
     }, 
-    "casos" : 84046.0, 
-    "muertes" : 3835.0, 
-    "vacunados" : 544048.0
-}
-{ 
-    "_id" : {
-        "month" : 1.0, 
-        "year" : 2021.0
+    {
+        "_id" : {
+            "month" : 5.0, 
+            "year" : 2021.0
+        }, 
+        "casos" : 2359.0, 
+        "muertes" : 15.0, 
+        "vacunados" : 492652.0
     }, 
-    "casos" : 306838.0, 
-    "muertes" : 5576.0, 
-    "vacunados" : 304022.0
-}
-{ 
-    "_id" : {
-        "month" : 5.0, 
-        "year" : 2021.0
+    {
+        "_id" : {
+            "month" : 3.0, 
+            "year" : 2021.0
+        }, 
+        "casos" : 17160.0, 
+        "muertes" : 531.0, 
+        "vacunados" : 864795.0
     }, 
-    "casos" : 2359.0, 
-    "muertes" : 15.0, 
-    "vacunados" : 492652.0
-}
-{ 
-    "_id" : {
-        "month" : 3.0, 
-        "year" : 2021.0
-    }, 
-    "casos" : 17160.0, 
-    "muertes" : 531.0, 
-    "vacunados" : 864795.0
-}
+    {
+        "_id" : {
+            "month" : 4.0, 
+            "year" : 2021.0
+        }, 
+        "casos" : 14771.0, 
+        "muertes" : 126.0, 
+        "vacunados" : 1538371.0
+    }
+]
