@@ -1,7 +1,7 @@
 var consulta_7 = function(date1,date2)
 { 
   
-return db.getCollection("covid").aggregate(
+return db.getCollection("proyecto").aggregate(
 
 	[
 		{

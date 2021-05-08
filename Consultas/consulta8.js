@@ -1,6 +1,6 @@
 
 var con = function(fecha){
-return db.getCollection("covid").aggregate(
+return db.getCollection("proyecto").aggregate(
 
 	[
 		{

@@ -1,4 +1,4 @@
-db.getCollection("covid").aggregate(
+db.getCollection("proyecto").aggregate(
 
 	// Pipeline
 	[
