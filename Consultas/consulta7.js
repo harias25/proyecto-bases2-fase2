@@ -1,15 +1,10 @@
-var consulta_7 = function(date1,date2)
+var consulta_7 = function()
 { 
   
 return db.getCollection("proyecto").aggregate(
 
 	[
-		{
-			$match: {			
-			    "date" : { 
-			                             $gt:ISODate(date1), 
-			                             $lt:ISODate(date2)}}
-		},
+
 		{
 			$group: {
 			    _id: "$location",
@@ -34,5 +29,5 @@ return db.getCollection("proyecto").aggregate(
 );
 };
 print("Consulta 7 cargada exitosamente");
-print(JSON.stringify(consulta_7("2021-04-03","2021-05-03")));
+print(JSON.stringify(consulta_7()));
 

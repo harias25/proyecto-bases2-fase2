@@ -1,6 +1,5 @@
-use fase2;
-var fecha_menor="2021-04-03";
-var fecha_mayor="2021-05-03";
+var fecha_menor="2020-12-01";
+var fecha_mayor="2021-01-01";
 db.getCollection("proyecto").find({location:"Guatemala",
                          date : { 
                              $gt:ISODate(fecha_menor), 

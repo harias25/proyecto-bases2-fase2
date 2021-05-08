@@ -1,0 +1,84 @@
+{ 
+    "_batch" : [
+        {
+            "_id" : "Austria", 
+            "pruebas" : 33762318.0
+        }, 
+        {
+            "_id" : "Slovakia", 
+            "pruebas" : 35603020.0
+        }, 
+        {
+            "_id" : "United Arab Emirates", 
+            "pruebas" : 45412777.0
+        }, 
+        {
+            "_id" : "Turkey", 
+            "pruebas" : 48672316.0
+        }, 
+        {
+            "_id" : "Italy", 
+            "pruebas" : 60199646.0
+        }, 
+        {
+            "_id" : "France", 
+            "pruebas" : 77459745.0
+        }, 
+        {
+            "_id" : "Russia", 
+            "pruebas" : 116734221.0
+        }, 
+        {
+            "_id" : "United Kingdom", 
+            "pruebas" : 151384954.0
+        }, 
+        {
+            "_id" : "India", 
+            "pruebas" : 293228592.0
+        }, 
+        {
+            "_id" : "United States", 
+            "pruebas" : 421912895.0
+        }
+    ], 
+    "_useReadCommands" : true, 
+    "_cursorid" : NumberLong(0), 
+    "_ns" : "bases2.proyecto", 
+    "_db" : {
+        "_mongo" : {
+            "slaveOk" : false, 
+            "host" : "localhost:30001", 
+            "defaultDB" : "test", 
+            "_causalConsistency" : false, 
+            "_clusterTime" : {
+                "clusterTime" : Timestamp(1620484710, 1), 
+                "signature" : {
+                    "hash" : BinData(0, "AAAAAAAAAAAAAAAAAAAAAAAAAAA="), 
+                    "keyId" : NumberLong(0)
+                }
+            }, 
+            "promptPrefix" : "", 
+            "authStatus" : {
+                "replSetGetStatus" : true, 
+                "isMaster" : true
+            }, 
+            "_defaultSession" : {
+                "_serverSession" : {
+                    "handle" : {
+
+                    }
+                }, 
+                "_isExplicit" : false
+            }, 
+            "_readMode" : "commands"
+        }, 
+        "_name" : "bases2", 
+        "_session" : {
+
+        }
+    }, 
+    "_collName" : "proyecto", 
+    "_cursorHandle" : {
+
+    }
+}
