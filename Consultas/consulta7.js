@@ -1,18 +1,15 @@
-db.getCollection("covid").aggregate(
+var consulta_7 = function(date1,date2)
+{ 
+  
+return db.getCollection("covid").aggregate(
 
-	// Pipeline
 	[
-		// Stage 1
 		{
-			$match: {
-			
+			$match: {			
 			    "date" : { 
-			                             $gt:ISODate("2021-04-03"), 
-			                             $lt:ISODate("2021-05-03")}
-			}
+			                             $gt:ISODate(date1), 
+			                             $lt:ISODate(date2)}}
 		},
-
-		// Stage 2
 		{
 			$group: {
 			    _id: "$location",
@@ -22,25 +19,20 @@ db.getCollection("covid").aggregate(
 			}
 		},
 
-		// Stage 3
 		{
 			$sort: {
 			    "pruebas":-1
 			}
 		},
 
-		// Stage 4
 		{
 			$limit: // positive integer
 			 10
 		},
-	],
-
-	// Options
-	{
-
-	}
-
-	// Created with Studio 3T, the IDE for MongoDB - https://studio3t.com/
+	]
 
 );
+};
+print("Consulta 7 cargada exitosamente");
+print(JSON.stringify(consulta_7("2021-04-03","2021-05-03")));
+
