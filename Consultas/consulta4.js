@@ -1,4 +1,4 @@
-db.getCollection("covid").aggregate(
+db.getCollection("proyecto").aggregate(
 
 	// Pipeline
 	[
@@ -6,9 +6,10 @@ db.getCollection("covid").aggregate(
 		{
 			$match: {
 			    // enter query here
-			    "date" : { 
-						  $gt:ISODate("2020-12-01"), 
-						  $lt:ISODate("2021-01-31")}
+			    "date" : {
+			        $gt:ISODate("2020-12-01"), 
+					$lt:ISODate("2021-01-31")
+					}   
 			}
 		},
 
@@ -16,14 +17,14 @@ db.getCollection("covid").aggregate(
 		{
 			$group: {
 			    _id: "$location",
-			     "acel_positivos": { "$avg": "$data.reproduction_rate" }
+			    "acel_positivos" : { "$avg": "$reproduction_rate"}
 			}
 		},
 
 		// Stage 3
 		{
 			$sort: {
-			    "acel_positivos":-1.0
+			    "acel_positivos": -1.0
 			    
 			}
 		},
