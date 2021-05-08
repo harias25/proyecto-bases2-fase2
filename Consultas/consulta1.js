@@ -19,4 +19,4 @@ db.getCollection("proyecto").find(
     {
         total_cases:-1
     }
-)
+).pretty().toArray()

@@ -1,0 +1,1172 @@
+[
+    {
+        "_id" : ObjectId("60969dcfe5a3ba108a17dabf"), 
+        "iso_code" : "USA", 
+        "location" : "United States", 
+        "total_cases" : 32651865.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc6e5a3ba108a17250b"), 
+        "iso_code" : "IND", 
+        "location" : "India", 
+        "total_cases" : 21892676.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16c50f"), 
+        "iso_code" : "BRA", 
+        "location" : "Brazil", 
+        "total_cases" : 15082449.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc4e5a3ba108a17086a"), 
+        "iso_code" : "FRA", 
+        "location" : "France", 
+        "total_cases" : 5808421.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcfe5a3ba108a17d19f"), 
+        "iso_code" : "TUR", 
+        "location" : "Turkey", 
+        "total_cases" : 4998089.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcbe5a3ba108a1794b9"), 
+        "iso_code" : "RUS", 
+        "location" : "Russia", 
+        "total_cases" : 4808133.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcfe5a3ba108a17d8e7"), 
+        "iso_code" : "GBR", 
+        "location" : "United Kingdom", 
+        "total_cases" : 4446752.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc6e5a3ba108a1731a0"), 
+        "iso_code" : "ITA", 
+        "location" : "Italy", 
+        "total_cases" : 4092747.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17b833"), 
+        "iso_code" : "ESP", 
+        "location" : "Spain", 
+        "total_cases" : 3567408.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc4e5a3ba108a170f37"), 
+        "iso_code" : "DEU", 
+        "location" : "Germany", 
+        "total_cases" : 3517762.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16a605"), 
+        "iso_code" : "ARG", 
+        "location" : "Argentina", 
+        "total_cases" : 3118134.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16db91"), 
+        "iso_code" : "COL", 
+        "location" : "Colombia", 
+        "total_cases" : 2968626.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcbe5a3ba108a178dce"), 
+        "iso_code" : "POL", 
+        "location" : "Poland", 
+        "total_cases" : 2824425.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc6e5a3ba108a172a3f"), 
+        "iso_code" : "IRN", 
+        "location" : "Iran", 
+        "total_cases" : 2627094.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a175eb4"), 
+        "iso_code" : "MEX", 
+        "location" : "Mexico", 
+        "total_cases" : 2361874.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcfe5a3ba108a17d547"), 
+        "iso_code" : "UKR", 
+        "location" : "Ukraine", 
+        "total_cases" : 2160809.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcbe5a3ba108a178a50"), 
+        "iso_code" : "PER", 
+        "location" : "Peru", 
+        "total_cases" : 1824457.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc6e5a3ba108a1726bb"), 
+        "iso_code" : "IDN", 
+        "location" : "Indonesia", 
+        "total_cases" : 1703632.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16e8db"), 
+        "iso_code" : "CZE", 
+        "location" : "Czechia", 
+        "total_cases" : 1642696.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17b145"), 
+        "iso_code" : "ZAF", 
+        "location" : "South Africa", 
+        "total_cases" : 1592626.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a17703d"), 
+        "iso_code" : "NLD", 
+        "location" : "Netherlands", 
+        "total_cases" : 1572861.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16d0f0"), 
+        "iso_code" : "CAN", 
+        "location" : "Canada", 
+        "total_cases" : 1281846.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16d80d"), 
+        "iso_code" : "CHL", 
+        "location" : "Chile", 
+        "total_cases" : 1235778.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc6e5a3ba108a172bf6"), 
+        "iso_code" : "IRQ", 
+        "location" : "Iraq", 
+        "total_cases" : 1103950.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcbe5a3ba108a178c20"), 
+        "iso_code" : "PHL", 
+        "location" : "Philippines", 
+        "total_cases" : 1087885.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcbe5a3ba108a1792ea"), 
+        "iso_code" : "ROU", 
+        "location" : "Romania", 
+        "total_cases" : 1063949.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16b918"), 
+        "iso_code" : "BEL", 
+        "location" : "Belgium", 
+        "total_cases" : 1010987.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17bf1e"), 
+        "iso_code" : "SWE", 
+        "location" : "Sweden", 
+        "total_cases" : 1007792.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a1781c9"), 
+        "iso_code" : "PAK", 
+        "location" : "Pakistan", 
+        "total_cases" : 854240.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc6e5a3ba108a172fd1"), 
+        "iso_code" : "ISR", 
+        "location" : "Israel", 
+        "total_cases" : 838858.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcbe5a3ba108a178f83"), 
+        "iso_code" : "PRT", 
+        "location" : "Portugal", 
+        "total_cases" : 838852.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a172187"), 
+        "iso_code" : "HUN", 
+        "location" : "Hungary", 
+        "total_cases" : 789188.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16b3f9"), 
+        "iso_code" : "BGD", 
+        "location" : "Bangladesh", 
+        "total_cases" : 770842.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a173731"), 
+        "iso_code" : "JOR", 
+        "location" : "Jordan", 
+        "total_cases" : 718632.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a17a484"), 
+        "iso_code" : "SRB", 
+        "location" : "Serbia", 
+        "total_cases" : 698518.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17c0d4"), 
+        "iso_code" : "CHE", 
+        "location" : "Switzerland", 
+        "total_cases" : 670613.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16ad40"), 
+        "iso_code" : "AUT", 
+        "location" : "Austria", 
+        "total_cases" : 628817.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc6e5a3ba108a17351f"), 
+        "iso_code" : "JPN", 
+        "location" : "Japan", 
+        "total_cases" : 628319.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcfe5a3ba108a17d718"), 
+        "iso_code" : "ARE", 
+        "location" : "United Arab Emirates", 
+        "total_cases" : 532710.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a174487"), 
+        "iso_code" : "LBN", 
+        "location" : "Lebanon", 
+        "total_cases" : 531834.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a1767d5"), 
+        "iso_code" : "MAR", 
+        "location" : "Morocco", 
+        "total_cases" : 513314.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a1753b7"), 
+        "iso_code" : "MYS", 
+        "location" : "Malaysia", 
+        "total_cases" : 432425.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a17a11c"), 
+        "iso_code" : "SAU", 
+        "location" : "Saudi Arabia", 
+        "total_cases" : 424445.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16c862"), 
+        "iso_code" : "BGR", 
+        "location" : "Bulgaria", 
+        "total_cases" : 409495.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16f2ed"), 
+        "iso_code" : "ECU", 
+        "location" : "Ecuador", 
+        "total_cases" : 396888.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a1738d6"), 
+        "iso_code" : "KAZ", 
+        "location" : "Kazakhstan", 
+        "total_cases" : 393639.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17ab3e"), 
+        "iso_code" : "SVK", 
+        "location" : "Slovakia", 
+        "total_cases" : 385022.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a176e89"), 
+        "iso_code" : "NPL", 
+        "location" : "Nepal", 
+        "total_cases" : 377603.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a17851f"), 
+        "iso_code" : "PAN", 
+        "location" : "Panama", 
+        "total_cases" : 366762.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16b74d"), 
+        "iso_code" : "BLR", 
+        "location" : "Belarus", 
+        "total_cases" : 366305.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a171306"), 
+        "iso_code" : "GRC", 
+        "location" : "Greece", 
+        "total_cases" : 358116.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16e3b2"), 
+        "iso_code" : "HRV", 
+        "location" : "Croatia", 
+        "total_cases" : 342487.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16aef1"), 
+        "iso_code" : "AZE", 
+        "location" : "Azerbaijan", 
+        "total_cases" : 325407.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc4e5a3ba108a170d64"), 
+        "iso_code" : "GEO", 
+        "location" : "Georgia", 
+        "total_cases" : 319266.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17cff8"), 
+        "iso_code" : "TUN", 
+        "location" : "Tunisia", 
+        "total_cases" : 318236.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16c019"), 
+        "iso_code" : "BOL", 
+        "location" : "Bolivia", 
+        "total_cases" : 314190.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a178376"), 
+        "iso_code" : "PSE", 
+        "location" : "Palestine", 
+        "total_cases" : 300946.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcbe5a3ba108a178868"), 
+        "iso_code" : "PRY", 
+        "location" : "Paraguay", 
+        "total_cases" : 294233.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a173ddd"), 
+        "iso_code" : "KWT", 
+        "location" : "Kuwait", 
+        "total_cases" : 282981.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16f13c"), 
+        "iso_code" : "DOM", 
+        "location" : "Dominican Republic", 
+        "total_cases" : 269958.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16e055"), 
+        "iso_code" : "CRI", 
+        "location" : "Costa Rica", 
+        "total_cases" : 265486.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc4e5a3ba108a16fea0"), 
+        "iso_code" : "ETH", 
+        "location" : "Ethiopia", 
+        "total_cases" : 261580.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16ec4f"), 
+        "iso_code" : "DNK", 
+        "location" : "Denmark", 
+        "total_cases" : 258204.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a174c9f"), 
+        "iso_code" : "LTU", 
+        "location" : "Lithuania", 
+        "total_cases" : 255384.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a1760c9"), 
+        "iso_code" : "MDA", 
+        "location" : "Moldova", 
+        "total_cases" : 252413.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc6e5a3ba108a172dac"), 
+        "iso_code" : "IRL", 
+        "location" : "Ireland", 
+        "total_cases" : 251904.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17ad0b"), 
+        "iso_code" : "SVN", 
+        "location" : "Slovenia", 
+        "total_cases" : 245159.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16f4ae"), 
+        "iso_code" : "EGY", 
+        "location" : "Egypt", 
+        "total_cases" : 235140.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a1716c5"), 
+        "iso_code" : "GTM", 
+        "location" : "Guatemala", 
+        "total_cases" : 233696.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16a7b6"), 
+        "iso_code" : "ARM", 
+        "location" : "Armenia", 
+        "total_cases" : 218681.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a171f45"), 
+        "iso_code" : "HND", 
+        "location" : "Honduras", 
+        "total_cases" : 218330.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcfe5a3ba108a17dc64"), 
+        "iso_code" : "URY", 
+        "location" : "Uruguay", 
+        "total_cases" : 216146.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcbe5a3ba108a179135"), 
+        "iso_code" : "QAT", 
+        "location" : "Qatar", 
+        "total_cases" : 210070.0
+    }, 
+    {
+        "_id" : ObjectId("60969dd0e5a3ba108a17e20a"), 
+        "iso_code" : "VEN", 
+        "location" : "Venezuela", 
+        "total_cases" : 205181.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16c1c6"), 
+        "iso_code" : "BIH", 
+        "location" : "Bosnia and Herzegovina", 
+        "total_cases" : 200693.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a178013"), 
+        "iso_code" : "OMN", 
+        "location" : "Oman", 
+        "total_cases" : 199344.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16b24a"), 
+        "iso_code" : "BHR", 
+        "location" : "Bahrain", 
+        "total_cases" : 186403.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a17493f"), 
+        "iso_code" : "LBY", 
+        "location" : "Libya", 
+        "total_cases" : 179697.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a1776e0"), 
+        "iso_code" : "NGA", 
+        "location" : "Nigeria", 
+        "total_cases" : 165340.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a173a82"), 
+        "iso_code" : "KEN", 
+        "location" : "Kenya", 
+        "total_cases" : 162666.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a177a6d"), 
+        "iso_code" : "MKD", 
+        "location" : "North Macedonia", 
+        "total_cases" : 153694.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a176b08"), 
+        "iso_code" : "MMR", 
+        "location" : "Myanmar", 
+        "total_cases" : 142903.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbee5a3ba108a169d21"), 
+        "iso_code" : "ALB", 
+        "location" : "Albania", 
+        "total_cases" : 131577.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17b4d7"), 
+        "iso_code" : "KOR", 
+        "location" : "South Korea", 
+        "total_cases" : 126745.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16fb57"), 
+        "iso_code" : "EST", 
+        "location" : "Estonia", 
+        "total_cases" : 124529.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbee5a3ba108a169ed7"), 
+        "iso_code" : "DZA", 
+        "location" : "Algeria", 
+        "total_cases" : 123692.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a1742cd"), 
+        "iso_code" : "LVA", 
+        "location" : "Latvia", 
+        "total_cases" : 122545.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17ba06"), 
+        "iso_code" : "LKA", 
+        "location" : "Sri Lanka", 
+        "total_cases" : 121338.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a177c87"), 
+        "iso_code" : "NOR", 
+        "location" : "Norway", 
+        "total_cases" : 115818.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16e558"), 
+        "iso_code" : "CUB", 
+        "location" : "Cuba", 
+        "total_cases" : 113876.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a173c26"), 
+        "iso_code" : "OWID_KOS", 
+        "location" : "Kosovo", 
+        "total_cases" : 105784.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16d9e5"), 
+        "iso_code" : "CHN", 
+        "location" : "China", 
+        "total_cases" : 102596.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a1765c4"), 
+        "iso_code" : "MNE", 
+        "location" : "Montenegro", 
+        "total_cases" : 98142.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a173f7d"), 
+        "iso_code" : "KGZ", 
+        "location" : "Kyrgyzstan", 
+        "total_cases" : 97663.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcfe5a3ba108a17de07"), 
+        "iso_code" : "UZB", 
+        "location" : "Uzbekistan", 
+        "total_cases" : 93597.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc4e5a3ba108a1710db"), 
+        "iso_code" : "GHA", 
+        "location" : "Ghana", 
+        "total_cases" : 92856.0
+    }, 
+    {
+        "_id" : ObjectId("60969dd0e5a3ba108a17e8e2"), 
+        "iso_code" : "ZMB", 
+        "location" : "Zambia", 
+        "total_cases" : 92004.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc4e5a3ba108a170694"), 
+        "iso_code" : "FIN", 
+        "location" : "Finland", 
+        "total_cases" : 88332.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17c94f"), 
+        "iso_code" : "THA", 
+        "location" : "Thailand", 
+        "total_cases" : 78855.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16cf1c"), 
+        "iso_code" : "CMR", 
+        "location" : "Cameroon", 
+        "total_cases" : 74946.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16f64d"), 
+        "iso_code" : "SLV", 
+        "location" : "El Salvador", 
+        "total_cases" : 70255.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a176971"), 
+        "iso_code" : "MOZ", 
+        "location" : "Mozambique", 
+        "total_cases" : 70138.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16e72a"), 
+        "iso_code" : "CYP", 
+        "location" : "Cyprus", 
+        "total_cases" : 68766.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a174e56"), 
+        "iso_code" : "LUX", 
+        "location" : "Luxembourg", 
+        "total_cases" : 68153.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbee5a3ba108a1699a9"), 
+        "iso_code" : "AFG", 
+        "location" : "Afghanistan", 
+        "total_cases" : 61455.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17a992"), 
+        "iso_code" : "SGP", 
+        "location" : "Singapore", 
+        "total_cases" : 61311.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a176cac"), 
+        "iso_code" : "NAM", 
+        "location" : "Namibia", 
+        "total_cases" : 49552.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16c35a"), 
+        "iso_code" : "BWA", 
+        "location" : "Botswana", 
+        "total_cases" : 48417.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc6e5a3ba108a173347"), 
+        "iso_code" : "JAM", 
+        "location" : "Jamaica", 
+        "total_cases" : 46428.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16e1fc"), 
+        "iso_code" : "CIV", 
+        "location" : "Cote d'Ivoire", 
+        "total_cases" : 46344.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a176423"), 
+        "iso_code" : "MNG", 
+        "location" : "Mongolia", 
+        "total_cases" : 44016.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcfe5a3ba108a17d398"), 
+        "iso_code" : "UGA", 
+        "location" : "Uganda", 
+        "total_cases" : 42224.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a17a2cf"), 
+        "iso_code" : "SEN", 
+        "location" : "Senegal", 
+        "total_cases" : 40621.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a17504d"), 
+        "iso_code" : "MDG", 
+        "location" : "Madagascar", 
+        "total_cases" : 38641.0
+    }, 
+    {
+        "_id" : ObjectId("60969dd0e5a3ba108a17ea80"), 
+        "iso_code" : "ZWE", 
+        "location" : "Zimbabwe", 
+        "total_cases" : 38403.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17bbac"), 
+        "iso_code" : "SDN", 
+        "location" : "Sudan", 
+        "total_cases" : 34461.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a1751e2"), 
+        "iso_code" : "MWI", 
+        "location" : "Malawi", 
+        "total_cases" : 34158.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a175561"), 
+        "iso_code" : "MDV", 
+        "location" : "Maldives", 
+        "total_cases" : 34134.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a1758c3"), 
+        "iso_code" : "MLT", 
+        "location" : "Malta", 
+        "total_cases" : 30432.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16ea82"), 
+        "iso_code" : "COD", 
+        "location" : "Democratic Republic of Congo", 
+        "total_cases" : 30240.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16ab8a"), 
+        "iso_code" : "AUS", 
+        "location" : "Australia", 
+        "total_cases" : 29906.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbee5a3ba108a16a225"), 
+        "iso_code" : "AGO", 
+        "location" : "Angola", 
+        "total_cases" : 28201.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16d28e"), 
+        "iso_code" : "CPV", 
+        "location" : "Cape Verde", 
+        "total_cases" : 25837.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a17965d"), 
+        "iso_code" : "RWA", 
+        "location" : "Rwanda", 
+        "total_cases" : 25539.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc4e5a3ba108a170a0e"), 
+        "iso_code" : "GAB", 
+        "location" : "Gabon", 
+        "total_cases" : 23311.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17c270"), 
+        "iso_code" : "SYR", 
+        "location" : "Syria", 
+        "total_cases" : 23256.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a1718c1"), 
+        "iso_code" : "GIN", 
+        "location" : "Guinea", 
+        "total_cases" : 22553.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a175b27"), 
+        "iso_code" : "MRT", 
+        "location" : "Mauritania", 
+        "total_cases" : 18613.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16fcfb"), 
+        "iso_code" : "SWZ", 
+        "location" : "Eswatini", 
+        "total_cases" : 18474.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16cd70"), 
+        "iso_code" : "KHM", 
+        "location" : "Cambodia", 
+        "total_cases" : 18179.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17af7d"), 
+        "iso_code" : "SOM", 
+        "location" : "Somalia", 
+        "total_cases" : 14368.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a171c00"), 
+        "iso_code" : "GUY", 
+        "location" : "Guyana", 
+        "total_cases" : 14073.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a1756fa"), 
+        "iso_code" : "MLI", 
+        "location" : "Mali", 
+        "total_cases" : 14059.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbee5a3ba108a16a087"), 
+        "iso_code" : "AND", 
+        "location" : "Andorra", 
+        "total_cases" : 13390.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16ca0a"), 
+        "iso_code" : "BFA", 
+        "location" : "Burkina Faso", 
+        "total_cases" : 13353.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17c5c3"), 
+        "iso_code" : "TJK", 
+        "location" : "Tajikistan", 
+        "total_cases" : 13308.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a171d9e"), 
+        "iso_code" : "HTI", 
+        "location" : "Haiti", 
+        "total_cases" : 13164.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17cc99"), 
+        "iso_code" : "TGO", 
+        "location" : "Togo", 
+        "total_cases" : 13106.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17ce4a"), 
+        "iso_code" : "TTO", 
+        "location" : "Trinidad and Tobago", 
+        "total_cases" : 12720.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16bab3"), 
+        "iso_code" : "BLZ", 
+        "location" : "Belize", 
+        "total_cases" : 12686.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcbe5a3ba108a1786bd"), 
+        "iso_code" : "PNG", 
+        "location" : "Papua New Guinea", 
+        "total_cases" : 11630.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16edef"), 
+        "iso_code" : "DJI", 
+        "location" : "Djibouti", 
+        "total_cases" : 11319.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16dea9"), 
+        "iso_code" : "COG", 
+        "location" : "Congo", 
+        "total_cases" : 11147.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17bd50"), 
+        "iso_code" : "SUR", 
+        "location" : "Suriname", 
+        "total_cases" : 10933.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16b093"), 
+        "iso_code" : "BHS", 
+        "location" : "Bahamas", 
+        "total_cases" : 10773.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a1745ef"), 
+        "iso_code" : "LSO", 
+        "location" : "Lesotho", 
+        "total_cases" : 10761.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17b665"), 
+        "iso_code" : "SSD", 
+        "location" : "South Sudan", 
+        "total_cases" : 10637.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16bc55"), 
+        "iso_code" : "BEN", 
+        "location" : "Benin", 
+        "total_cases" : 7884.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16f7f0"), 
+        "iso_code" : "GNQ", 
+        "location" : "Equatorial Guinea", 
+        "total_cases" : 7694.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a17738f"), 
+        "iso_code" : "NIC", 
+        "location" : "Nicaragua", 
+        "total_cases" : 6989.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16d4b6"), 
+        "iso_code" : "CAF", 
+        "location" : "Central African Republic", 
+        "total_cases" : 6674.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a17233b"), 
+        "iso_code" : "ISL", 
+        "location" : "Iceland", 
+        "total_cases" : 6506.0
+    }, 
+    {
+        "_id" : ObjectId("60969dd0e5a3ba108a17e742"), 
+        "iso_code" : "YEM", 
+        "location" : "Yemen", 
+        "total_cases" : 6446.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a17a628"), 
+        "iso_code" : "SYC", 
+        "location" : "Seychelles", 
+        "total_cases" : 6373.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc4e5a3ba108a170baf"), 
+        "iso_code" : "GMB", 
+        "location" : "Gambia", 
+        "total_cases" : 5925.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a17752d"), 
+        "iso_code" : "NER", 
+        "location" : "Niger", 
+        "total_cases" : 5310.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a179ddf"), 
+        "iso_code" : "SMR", 
+        "location" : "San Marino", 
+        "total_cases" : 5067.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16d655"), 
+        "iso_code" : "TCD", 
+        "location" : "Chad", 
+        "total_cases" : 4862.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a1799dc"), 
+        "iso_code" : "LCA", 
+        "location" : "Saint Lucia", 
+        "total_cases" : 4607.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16cb9d"), 
+        "iso_code" : "BDI", 
+        "location" : "Burundi", 
+        "total_cases" : 4132.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a17a7bb"), 
+        "iso_code" : "SLE", 
+        "location" : "Sierra Leone", 
+        "total_cases" : 4068.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16b59a"), 
+        "iso_code" : "BRB", 
+        "location" : "Barbados", 
+        "total_cases" : 3931.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc2e5a3ba108a16dd06"), 
+        "iso_code" : "COM", 
+        "location" : "Comoros", 
+        "total_cases" : 3854.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16f98d"), 
+        "iso_code" : "ERI", 
+        "location" : "Eritrea", 
+        "total_cases" : 3742.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a171a5a"), 
+        "iso_code" : "GNB", 
+        "location" : "Guinea-Bissau", 
+        "total_cases" : 3739.0
+    }, 
+    {
+        "_id" : ObjectId("60969dd0e5a3ba108a17e3e1"), 
+        "iso_code" : "VNM", 
+        "location" : "Vietnam", 
+        "total_cases" : 3137.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17caeb"), 
+        "iso_code" : "TLS", 
+        "location" : "Timor", 
+        "total_cases" : 2965.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a174aed"), 
+        "iso_code" : "LIE", 
+        "location" : "Liechtenstein", 
+        "total_cases" : 2963.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcae5a3ba108a1771f0"), 
+        "iso_code" : "NZL", 
+        "location" : "New Zealand", 
+        "total_cases" : 2634.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a17627b"), 
+        "iso_code" : "MCO", 
+        "location" : "Monaco", 
+        "total_cases" : 2477.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a179f6c"), 
+        "iso_code" : "STP", 
+        "location" : "Sao Tome and Principe", 
+        "total_cases" : 2317.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a174791"), 
+        "iso_code" : "LBR", 
+        "location" : "Liberia", 
+        "total_cases" : 2114.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a179b80"), 
+        "iso_code" : "VCT", 
+        "location" : "Saint Vincent and the Grenadines", 
+        "total_cases" : 1895.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbee5a3ba108a16a418"), 
+        "iso_code" : "ATG", 
+        "location" : "Antigua and Barbuda", 
+        "total_cases" : 1232.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a175cc7"), 
+        "iso_code" : "MUS", 
+        "location" : "Mauritius", 
+        "total_cases" : 1226.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc7e5a3ba108a174117"), 
+        "iso_code" : "LAO", 
+        "location" : "Laos", 
+        "total_cases" : 1205.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16be72"), 
+        "iso_code" : "BTN", 
+        "location" : "Bhutan", 
+        "total_cases" : 1190.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17c44e"), 
+        "iso_code" : "TWN", 
+        "location" : "Taiwan", 
+        "total_cases" : 1178.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcee5a3ba108a17c765"), 
+        "iso_code" : "TZA", 
+        "location" : "Tanzania", 
+        "total_cases" : 509.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc0e5a3ba108a16c6b8"), 
+        "iso_code" : "BRN", 
+        "location" : "Brunei", 
+        "total_cases" : 229.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc3e5a3ba108a16ef8b"), 
+        "iso_code" : "DMA", 
+        "location" : "Dominica", 
+        "total_cases" : 174.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a171507"), 
+        "iso_code" : "GRD", 
+        "location" : "Grenada", 
+        "total_cases" : 160.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc4e5a3ba108a1704c3"), 
+        "iso_code" : "FJI", 
+        "location" : "Fiji", 
+        "total_cases" : 129.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a179838"), 
+        "iso_code" : "KNA", 
+        "location" : "Saint Kitts and Nevis", 
+        "total_cases" : 45.0
+    }, 
+    {
+        "_id" : ObjectId("60969dd0e5a3ba108a17e066"), 
+        "iso_code" : "VAT", 
+        "location" : "Vatican", 
+        "total_cases" : 27.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcde5a3ba108a17addb"), 
+        "iso_code" : "SLB", 
+        "location" : "Solomon Islands", 
+        "total_cases" : 20.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a175983"), 
+        "iso_code" : "MHL", 
+        "location" : "Marshall Islands", 
+        "total_cases" : 4.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcfe5a3ba108a17deba"), 
+        "iso_code" : "VUT", 
+        "location" : "Vanuatu", 
+        "total_cases" : 4.0
+    }, 
+    {
+        "_id" : ObjectId("60969dcce5a3ba108a179c2b"), 
+        "iso_code" : "WSM", 
+        "location" : "Samoa", 
+        "total_cases" : 3.0
+    }, 
+    {
+        "_id" : ObjectId("60969dc9e5a3ba108a175f1f"), 
+        "iso_code" : "FSM", 
+        "location" : "Micronesia (country)", 
+        "total_cases" : 1.0
+    }, 
+    {
+        "_id" : ObjectId("60969dbfe5a3ba108a16a7de"), 
+        "iso_code" : "ABW", 
+        "location" : "Aruba"
+    }, 
+    {
+        "_id" : ObjectId("60969dc1e5a3ba108a16d313"), 
+        "iso_code" : "CYM", 
+        "location" : "Cayman Islands"
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a171151"), 
+        "iso_code" : "GIB", 
+        "location" : "Gibraltar"
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a17136b"), 
+        "iso_code" : "GRL", 
+        "location" : "Greenland"
+    }, 
+    {
+        "_id" : ObjectId("60969dc5e5a3ba108a171fd8"), 
+        "iso_code" : "HKG", 
+        "location" : "Hong Kong"
+    }, 
+    {
+        "_id" : ObjectId("60969dc8e5a3ba108a174eaf"), 
+        "iso_code" : "MAC", 
+        "location" : "Macao"
+    }
+]
