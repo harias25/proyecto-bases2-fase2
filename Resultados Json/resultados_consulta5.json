@@ -1,0 +1,800 @@
+{ 
+    "_id" : "Mexico", 
+    "contagios" : 0.3641605504587156
+}
+{ 
+    "_id" : "Oman", 
+    "contagios" : 0.3306470588235294
+}
+{ 
+    "_id" : "Bolivia", 
+    "contagios" : 0.28547432762836183
+}
+{ 
+    "_id" : "Ecuador", 
+    "contagios" : 0.2793504273504273
+}
+{ 
+    "_id" : "Tunisia", 
+    "contagios" : 0.27113793103448275
+}
+{ 
+    "_id" : "Argentina", 
+    "contagios" : 0.2283986013986014
+}
+{ 
+    "_id" : "Costa Rica", 
+    "contagios" : 0.22360143198090693
+}
+{ 
+    "_id" : "Colombia", 
+    "contagios" : 0.2187583081570997
+}
+{ 
+    "_id" : "Armenia", 
+    "contagios" : 0.20218225419664268
+}
+{ 
+    "_id" : "Dominican Republic", 
+    "contagios" : 0.19597297297297298
+}
+{ 
+    "_id" : "Democratic Republic of Congo", 
+    "contagios" : 0.1943811188811189
+}
+{ 
+    "_id" : "Guatemala", 
+    "contagios" : 0.19356900726392254
+}
+{ 
+    "_id" : "Palestine", 
+    "contagios" : 0.19225229357798165
+}
+{ 
+    "_id" : "Paraguay", 
+    "contagios" : 0.1907775119617225
+}
+{ 
+    "_id" : "Albania", 
+    "contagios" : 0.1840431654676259
+}
+{ 
+    "_id" : "Ukraine", 
+    "contagios" : 0.18361917098445596
+}
+{ 
+    "_id" : "Bosnia and Herzegovina", 
+    "contagios" : 0.17949872122762148
+}
+{ 
+    "_id" : "Peru", 
+    "contagios" : 0.17745667447306793
+}
+{ 
+    "_id" : "Panama", 
+    "contagios" : 0.1768341346153846
+}
+{ 
+    "_id" : "North Macedonia", 
+    "contagios" : 0.17314213197969544
+}
+{ 
+    "_id" : "Indonesia", 
+    "contagios" : 0.16218536585365853
+}
+{ 
+    "_id" : "Madagascar", 
+    "contagios" : 0.15724590163934427
+}
+{ 
+    "_id" : "Poland", 
+    "contagios" : 0.15510928961748635
+}
+{ 
+    "_id" : "Cape Verde", 
+    "contagios" : 0.1470248447204969
+}
+{ 
+    "_id" : "Iran", 
+    "contagios" : 0.14411794871794872
+}
+{ 
+    "_id" : "Serbia", 
+    "contagios" : 0.14274881516587679
+}
+{ 
+    "_id" : "Kuwait", 
+    "contagios" : 0.13575213675213677
+}
+{ 
+    "_id" : "Czechia", 
+    "contagios" : 0.1342314049586777
+}
+{ 
+    "_id" : "Bangladesh", 
+    "contagios" : 0.12843809523809524
+}
+{ 
+    "_id" : "Bulgaria", 
+    "contagios" : 0.12524218750000002
+}
+{ 
+    "_id" : "Jordan", 
+    "contagios" : 0.12439444444444446
+}
+{ 
+    "_id" : "Croatia", 
+    "contagios" : 0.12356737588652482
+}
+{ 
+    "_id" : "Slovenia", 
+    "contagios" : 0.12089449541284404
+}
+{ 
+    "_id" : "Romania", 
+    "contagios" : 0.12085265700483092
+}
+{ 
+    "_id" : "Chile", 
+    "contagios" : 0.1172842377260982
+}
+{ 
+    "_id" : "Iraq", 
+    "contagios" : 0.1155736434108527
+}
+{ 
+    "_id" : "South Africa", 
+    "contagios" : 0.11304491725768322
+}
+{ 
+    "_id" : "Qatar", 
+    "contagios" : 0.11160532687651332
+}
+{ 
+    "_id" : "Trinidad and Tobago", 
+    "contagios" : 0.10934261838440111
+}
+{ 
+    "_id" : "Jamaica", 
+    "contagios" : 0.104405
+}
+{ 
+    "_id" : "Nigeria", 
+    "contagios" : 0.09878645833333333
+}
+{ 
+    "_id" : "Hungary", 
+    "contagios" : 0.0969095238095238
+}
+{ 
+    "_id" : "Mozambique", 
+    "contagios" : 0.09442676767676768
+}
+{ 
+    "_id" : "Namibia", 
+    "contagios" : 0.09442493638676845
+}
+{ 
+    "_id" : "Netherlands", 
+    "contagios" : 0.09073333333333333
+}
+{ 
+    "_id" : "Andorra", 
+    "contagios" : 0.09031404958677687
+}
+{ 
+    "_id" : "Libya", 
+    "contagios" : 0.08956024096385543
+}
+{ 
+    "_id" : "Morocco", 
+    "contagios" : 0.08921361502347419
+}
+{ 
+    "_id" : "Malawi", 
+    "contagios" : 0.08907466666666666
+}
+{ 
+    "_id" : "Sweden", 
+    "contagios" : 0.08859375
+}
+{ 
+    "_id" : "Ethiopia", 
+    "contagios" : 0.08811864406779661
+}
+{ 
+    "_id" : "Nepal", 
+    "contagios" : 0.0862637614678899
+}
+{ 
+    "_id" : "Azerbaijan", 
+    "contagios" : 0.08499999999999999
+}
+{ 
+    "_id" : "Belgium", 
+    "contagios" : 0.08326117647058824
+}
+{ 
+    "_id" : "Switzerland", 
+    "contagios" : 0.08166475644699141
+}
+{ 
+    "_id" : "Philippines", 
+    "contagios" : 0.08130867346938776
+}
+{ 
+    "_id" : "Ghana", 
+    "contagios" : 0.08127407407407407
+}
+{ 
+    "_id" : "Senegal", 
+    "contagios" : 0.08055633802816901
+}
+{ 
+    "_id" : "Cote d'Ivoire", 
+    "contagios" : 0.08025984251968504
+}
+{ 
+    "_id" : "Pakistan", 
+    "contagios" : 0.07851566265060242
+}
+{ 
+    "_id" : "United States", 
+    "contagios" : 0.07679009433962264
+}
+{ 
+    "_id" : "El Salvador", 
+    "contagios" : 0.07430585106382978
+}
+{ 
+    "_id" : "Spain", 
+    "contagios" : 0.07327173913043478
+}
+{ 
+    "_id" : "Kenya", 
+    "contagios" : 0.07057065217391303
+}
+{ 
+    "_id" : "Gambia", 
+    "contagios" : 0.07001237623762377
+}
+{ 
+    "_id" : "Italy", 
+    "contagios" : 0.06606032482598609
+}
+{ 
+    "_id" : "Zambia", 
+    "contagios" : 0.06513513513513514
+}
+{ 
+    "_id" : "Turkey", 
+    "contagios" : 0.0648671679197995
+}
+{ 
+    "_id" : "Lithuania", 
+    "contagios" : 0.0630940594059406
+}
+{ 
+    "_id" : "India", 
+    "contagios" : 0.06243583535108959
+}
+{ 
+    "_id" : "Zimbabwe", 
+    "contagios" : 0.06117877094972067
+}
+{ 
+    "_id" : "Portugal", 
+    "contagios" : 0.06087264150943396
+}
+{ 
+    "_id" : "Liechtenstein", 
+    "contagios" : 0.060017241379310346
+}
+{ 
+    "_id" : "France", 
+    "contagios" : 0.05970857142857143
+}
+{ 
+    "_id" : "Estonia", 
+    "contagios" : 0.05924651162790697
+}
+{ 
+    "_id" : "Germany", 
+    "contagios" : 0.058333333333333334
+}
+{ 
+    "_id" : "Belarus", 
+    "contagios" : 0.05706619385342789
+}
+{ 
+    "_id" : "Austria", 
+    "contagios" : 0.056873134328358214
+}
+{ 
+    "_id" : "Uruguay", 
+    "contagios" : 0.0549070351758794
+}
+{ 
+    "_id" : "Japan", 
+    "contagios" : 0.05255606407322654
+}
+{ 
+    "_id" : "South Sudan", 
+    "contagios" : 0.049821138211382114
+}
+{ 
+    "_id" : "Ireland", 
+    "contagios" : 0.04714705882352941
+}
+{ 
+    "_id" : "Maldives", 
+    "contagios" : 0.04559413202933985
+}
+{ 
+    "_id" : "Uganda", 
+    "contagios" : 0.044673139158576056
+}
+{ 
+    "_id" : "Israel", 
+    "contagios" : 0.0439816091954023
+}
+{ 
+    "_id" : "United Kingdom", 
+    "contagios" : 0.04326142131979696
+}
+{ 
+    "_id" : "Georgia", 
+    "contagios" : 0.04146428571428572
+}
+{ 
+    "_id" : "Myanmar", 
+    "contagios" : 0.04130696202531646
+}
+{ 
+    "_id" : "Bahrain", 
+    "contagios" : 0.04109263657957245
+}
+{ 
+    "_id" : "Slovakia", 
+    "contagios" : 0.040438095238095245
+}
+{ 
+    "_id" : "Canada", 
+    "contagios" : 0.037526315789473685
+}
+{ 
+    "_id" : "Kazakhstan", 
+    "contagios" : 0.037377723970944306
+}
+{ 
+    "_id" : "Malaysia", 
+    "contagios" : 0.036048054919908465
+}
+{ 
+    "_id" : "Togo", 
+    "contagios" : 0.035869358669833734
+}
+{ 
+    "_id" : "Latvia", 
+    "contagios" : 0.034669014084507045
+}
+{ 
+    "_id" : "Saudi Arabia", 
+    "contagios" : 0.03464150943396226
+}
+{ 
+    "_id" : "Greece", 
+    "contagios" : 0.034007109004739335
+}
+{ 
+    "_id" : "Russia", 
+    "contagios" : 0.033402843601895736
+}
+{ 
+    "_id" : "Luxembourg", 
+    "contagios" : 0.030559523809523807
+}
+{ 
+    "_id" : "Sri Lanka", 
+    "contagios" : 0.02867741935483871
+}
+{ 
+    "_id" : "Malta", 
+    "contagios" : 0.026705463182897862
+}
+{ 
+    "_id" : "Finland", 
+    "contagios" : 0.021030444964871196
+}
+{ 
+    "_id" : "Singapore", 
+    "contagios" : 0.020296103896103895
+}
+{ 
+    "_id" : "Cuba", 
+    "contagios" : 0.020280397022332506
+}
+{ 
+    "_id" : "Norway", 
+    "contagios" : 0.017694656488549617
+}
+{ 
+    "_id" : "Mongolia", 
+    "contagios" : 0.017568047337278105
+}
+{ 
+    "_id" : "Denmark", 
+    "contagios" : 0.017442622950819674
+}
+{ 
+    "_id" : "Iceland", 
+    "contagios" : 0.016434579439252337
+}
+{ 
+    "_id" : "Rwanda", 
+    "contagios" : 0.015940721649484534
+}
+{ 
+    "_id" : "Cyprus", 
+    "contagios" : 0.013507537688442211
+}
+{ 
+    "_id" : "South Korea", 
+    "contagios" : 0.012501144164759725
+}
+{ 
+    "_id" : "Thailand", 
+    "contagios" : 0.011760000000000001
+}
+{ 
+    "_id" : "United Arab Emirates", 
+    "contagios" : 0.010958810068649886
+}
+{ 
+    "_id" : "Taiwan", 
+    "contagios" : 0.005125858123569795
+}
+{ 
+    "_id" : "Fiji", 
+    "contagios" : 0.0040513447432762835
+}
+{ 
+    "_id" : "Bhutan", 
+    "contagios" : 0.0022357320099255585
+}
+{ 
+    "_id" : "New Zealand", 
+    "contagios" : 0.002171764705882353
+}
+{ 
+    "_id" : "Australia", 
+    "contagios" : 0.001962871287128713
+}
+{ 
+    "_id" : "Vietnam", 
+    "contagios" : 0.0015441176470588234
+}
+{ 
+    "_id" : "Gibraltar", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Cambodia", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Saint Helena", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Algeria", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Papua New Guinea", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Kosovo", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Saint Vincent and the Grenadines", 
+    "contagios" : null
+}
+{ 
+    "_id" : "South America", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Curacao", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Sudan", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Suriname", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Cayman Islands", 
+    "contagios" : null
+}
+{ 
+    "_id" : "China", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Asia", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Saint Kitts and Nevis", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Comoros", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Yemen", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Oceania", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Lebanon", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Tajikistan", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Vanuatu", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Tonga", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Guyana", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Benin", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Djibouti", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Brazil", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Guinea", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Anguilla", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Laos", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Greenland", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Haiti", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Macao", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Mauritania", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Moldova", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Antigua and Barbuda", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Northern Cyprus", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Africa", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Nicaragua", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Mauritius", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Jersey", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Burundi", 
+    "contagios" : null
+}
+{ 
+    "_id" : "International", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Brunei", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Monaco", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Uzbekistan", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Honduras", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Venezuela", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Timor", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Congo", 
+    "contagios" : null
+}
+{ 
+    "_id" : "San Marino", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Afghanistan", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Guinea-Bissau", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Bermuda", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Eswatini", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Montserrat", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Somalia", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Turks and Caicos Islands", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Mali", 
+    "contagios" : null
+}
+{ 
+    "_id" : "World", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Guernsey", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Isle of Man", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Egypt", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Kyrgyzstan", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Marshall Islands", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Bahamas", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Niger", 
+    "contagios" : null
+}
+{ 
+    "_id" : "North America", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Samoa", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Burkina Faso", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Sao Tome and Principe", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Eritrea", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Angola", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Botswana", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Lesotho", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Gabon", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Chad", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Nauru", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Tanzania", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Grenada", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Solomon Islands", 
+    "contagios" : null
+}
+{ 
+    "_id" : "Vatican", 
+    "contagios" : null
+}

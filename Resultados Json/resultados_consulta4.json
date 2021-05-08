@@ -1,0 +1,800 @@
+{ 
+    "_id" : "Malawi", 
+    "acel_positivos" : 1.6946666666666665
+}
+{ 
+    "_id" : "Gabon", 
+    "acel_positivos" : 1.3955
+}
+{ 
+    "_id" : "Zambia", 
+    "acel_positivos" : 1.3701666666666665
+}
+{ 
+    "_id" : "Bolivia", 
+    "acel_positivos" : 1.3343333333333334
+}
+{ 
+    "_id" : "Cote d'Ivoire", 
+    "acel_positivos" : 1.313
+}
+{ 
+    "_id" : "Thailand", 
+    "acel_positivos" : 1.3091666666666666
+}
+{ 
+    "_id" : "Suriname", 
+    "acel_positivos" : 1.3001666666666667
+}
+{ 
+    "_id" : "Cuba", 
+    "acel_positivos" : 1.293
+}
+{ 
+    "_id" : "Senegal", 
+    "acel_positivos" : 1.2815
+}
+{ 
+    "_id" : "Lesotho", 
+    "acel_positivos" : 1.2785
+}
+{ 
+    "_id" : "Sierra Leone", 
+    "acel_positivos" : 1.268
+}
+{ 
+    "_id" : "Eswatini", 
+    "acel_positivos" : 1.2628333333333333
+}
+{ 
+    "_id" : "Mozambique", 
+    "acel_positivos" : 1.2585000000000002
+}
+{ 
+    "_id" : "Botswana", 
+    "acel_positivos" : 1.2528333333333335
+}
+{ 
+    "_id" : "Rwanda", 
+    "acel_positivos" : 1.2513333333333334
+}
+{ 
+    "_id" : "Ireland", 
+    "acel_positivos" : 1.2448333333333332
+}
+{ 
+    "_id" : "Israel", 
+    "acel_positivos" : 1.2409999999999999
+}
+{ 
+    "_id" : "Nigeria", 
+    "acel_positivos" : 1.2381666666666666
+}
+{ 
+    "_id" : "Spain", 
+    "acel_positivos" : 1.2280000000000002
+}
+{ 
+    "_id" : "Ghana", 
+    "acel_positivos" : 1.2223333333333335
+}
+{ 
+    "_id" : "Zimbabwe", 
+    "acel_positivos" : 1.2156666666666667
+}
+{ 
+    "_id" : "Haiti", 
+    "acel_positivos" : 1.2154999999999998
+}
+{ 
+    "_id" : "Peru", 
+    "acel_positivos" : 1.2081666666666666
+}
+{ 
+    "_id" : "Monaco", 
+    "acel_positivos" : 1.2038333333333333
+}
+{ 
+    "_id" : "Chad", 
+    "acel_positivos" : 1.1935
+}
+{ 
+    "_id" : "Singapore", 
+    "acel_positivos" : 1.1896666666666667
+}
+{ 
+    "_id" : "Uruguay", 
+    "acel_positivos" : 1.1864999999999999
+}
+{ 
+    "_id" : "Burkina Faso", 
+    "acel_positivos" : 1.171
+}
+{ 
+    "_id" : "Sweden", 
+    "acel_positivos" : 1.1696666666666666
+}
+{ 
+    "_id" : "Barbados", 
+    "acel_positivos" : 1.1568333333333334
+}
+{ 
+    "_id" : "Eritrea", 
+    "acel_positivos" : 1.1561666666666668
+}
+{ 
+    "_id" : "Namibia", 
+    "acel_positivos" : 1.1558333333333333
+}
+{ 
+    "_id" : "Saint Lucia", 
+    "acel_positivos" : 1.1466666666666667
+}
+{ 
+    "_id" : "South Africa", 
+    "acel_positivos" : 1.136
+}
+{ 
+    "_id" : "Malaysia", 
+    "acel_positivos" : 1.1326666666666665
+}
+{ 
+    "_id" : "Chile", 
+    "acel_positivos" : 1.1266666666666665
+}
+{ 
+    "_id" : "Mongolia", 
+    "acel_positivos" : 1.1241666666666668
+}
+{ 
+    "_id" : "United Arab Emirates", 
+    "acel_positivos" : 1.122
+}
+{ 
+    "_id" : "Togo", 
+    "acel_positivos" : 1.1163333333333334
+}
+{ 
+    "_id" : "Maldives", 
+    "acel_positivos" : 1.1088333333333333
+}
+{ 
+    "_id" : "Portugal", 
+    "acel_positivos" : 1.1073333333333333
+}
+{ 
+    "_id" : "Democratic Republic of Congo", 
+    "acel_positivos" : 1.1035
+}
+{ 
+    "_id" : "Lebanon", 
+    "acel_positivos" : 1.1025
+}
+{ 
+    "_id" : "Bahrain", 
+    "acel_positivos" : 1.1015000000000001
+}
+{ 
+    "_id" : "Indonesia", 
+    "acel_positivos" : 1.1006666666666667
+}
+{ 
+    "_id" : "Dominican Republic", 
+    "acel_positivos" : 1.0953333333333333
+}
+{ 
+    "_id" : "Jamaica", 
+    "acel_positivos" : 1.0945
+}
+{ 
+    "_id" : "Honduras", 
+    "acel_positivos" : 1.0933333333333335
+}
+{ 
+    "_id" : "Burundi", 
+    "acel_positivos" : 1.0886666666666664
+}
+{ 
+    "_id" : "Japan", 
+    "acel_positivos" : 1.0873333333333333
+}
+{ 
+    "_id" : "Egypt", 
+    "acel_positivos" : 1.084
+}
+{ 
+    "_id" : "Oman", 
+    "acel_positivos" : 1.0815
+}
+{ 
+    "_id" : "Ecuador", 
+    "acel_positivos" : 1.0805
+}
+{ 
+    "_id" : "Czechia", 
+    "acel_positivos" : 1.0799999999999998
+}
+{ 
+    "_id" : "United Kingdom", 
+    "acel_positivos" : 1.0756666666666668
+}
+{ 
+    "_id" : "Latvia", 
+    "acel_positivos" : 1.0733333333333335
+}
+{ 
+    "_id" : "Guinea", 
+    "acel_positivos" : 1.073
+}
+{ 
+    "_id" : "Mexico", 
+    "acel_positivos" : 1.0675
+}
+{ 
+    "_id" : "Guatemala", 
+    "acel_positivos" : 1.067
+}
+{ 
+    "_id" : "Estonia", 
+    "acel_positivos" : 1.067
+}
+{ 
+    "_id" : "China", 
+    "acel_positivos" : 1.0593333333333335
+}
+{ 
+    "_id" : "Brazil", 
+    "acel_positivos" : 1.059
+}
+{ 
+    "_id" : "Niger", 
+    "acel_positivos" : 1.0585
+}
+{ 
+    "_id" : "Tunisia", 
+    "acel_positivos" : 1.0551666666666668
+}
+{ 
+    "_id" : "Colombia", 
+    "acel_positivos" : 1.0536666666666668
+}
+{ 
+    "_id" : "El Salvador", 
+    "acel_positivos" : 1.0506666666666669
+}
+{ 
+    "_id" : "Guyana", 
+    "acel_positivos" : 1.0505
+}
+{ 
+    "_id" : "Slovakia", 
+    "acel_positivos" : 1.0501666666666667
+}
+{ 
+    "_id" : "Sri Lanka", 
+    "acel_positivos" : 1.0481666666666667
+}
+{ 
+    "_id" : "Kuwait", 
+    "acel_positivos" : 1.048
+}
+{ 
+    "_id" : "Djibouti", 
+    "acel_positivos" : 1.0461666666666667
+}
+{ 
+    "_id" : "Qatar", 
+    "acel_positivos" : 1.046
+}
+{ 
+    "_id" : "Comoros", 
+    "acel_positivos" : 1.0446666666666666
+}
+{ 
+    "_id" : "Kazakhstan", 
+    "acel_positivos" : 1.0418333333333334
+}
+{ 
+    "_id" : "Malta", 
+    "acel_positivos" : 1.0411666666666666
+}
+{ 
+    "_id" : "Venezuela", 
+    "acel_positivos" : 1.0401666666666667
+}
+{ 
+    "_id" : "San Marino", 
+    "acel_positivos" : 1.0386666666666666
+}
+{ 
+    "_id" : "Kosovo", 
+    "acel_positivos" : 1.037
+}
+{ 
+    "_id" : "France", 
+    "acel_positivos" : 1.035
+}
+{ 
+    "_id" : "Argentina", 
+    "acel_positivos" : 1.0333333333333334
+}
+{ 
+    "_id" : "Cape Verde", 
+    "acel_positivos" : 1.0330000000000001
+}
+{ 
+    "_id" : "Panama", 
+    "acel_positivos" : 1.0251666666666666
+}
+{ 
+    "_id" : "Bahamas", 
+    "acel_positivos" : 1.0246666666666668
+}
+{ 
+    "_id" : "Vietnam", 
+    "acel_positivos" : 1.021
+}
+{ 
+    "_id" : "Andorra", 
+    "acel_positivos" : 1.0208333333333333
+}
+{ 
+    "_id" : "Albania", 
+    "acel_positivos" : 1.02
+}
+{ 
+    "_id" : "Costa Rica", 
+    "acel_positivos" : 1.0173333333333334
+}
+{ 
+    "_id" : "Philippines", 
+    "acel_positivos" : 1.016
+}
+{ 
+    "_id" : "Libya", 
+    "acel_positivos" : 1.015
+}
+{ 
+    "_id" : "Paraguay", 
+    "acel_positivos" : 1.0131666666666665
+}
+{ 
+    "_id" : "South Korea", 
+    "acel_positivos" : 1.0105
+}
+{ 
+    "_id" : "Belarus", 
+    "acel_positivos" : 1.0076666666666667
+}
+{ 
+    "_id" : "Slovenia", 
+    "acel_positivos" : 1.0001666666666666
+}
+{ 
+    "_id" : "Ethiopia", 
+    "acel_positivos" : 0.9993333333333333
+}
+{ 
+    "_id" : "Finland", 
+    "acel_positivos" : 0.9983333333333333
+}
+{ 
+    "_id" : "Canada", 
+    "acel_positivos" : 0.9975
+}
+{ 
+    "_id" : "World", 
+    "acel_positivos" : 0.9975
+}
+{ 
+    "_id" : "United States", 
+    "acel_positivos" : 0.9968333333333333
+}
+{ 
+    "_id" : "Saint Vincent and the Grenadines", 
+    "acel_positivos" : 0.9964444444444445
+}
+{ 
+    "_id" : "Netherlands", 
+    "acel_positivos" : 0.9933333333333334
+}
+{ 
+    "_id" : "Cyprus", 
+    "acel_positivos" : 0.9881666666666666
+}
+{ 
+    "_id" : "Syria", 
+    "acel_positivos" : 0.9878333333333333
+}
+{ 
+    "_id" : "Montenegro", 
+    "acel_positivos" : 0.9853333333333334
+}
+{ 
+    "_id" : "Australia", 
+    "acel_positivos" : 0.9833333333333333
+}
+{ 
+    "_id" : "Mauritania", 
+    "acel_positivos" : 0.9825
+}
+{ 
+    "_id" : "Saudi Arabia", 
+    "acel_positivos" : 0.9808333333333333
+}
+{ 
+    "_id" : "Germany", 
+    "acel_positivos" : 0.9776666666666667
+}
+{ 
+    "_id" : "Russia", 
+    "acel_positivos" : 0.9745
+}
+{ 
+    "_id" : "Belgium", 
+    "acel_positivos" : 0.972
+}
+{ 
+    "_id" : "Norway", 
+    "acel_positivos" : 0.9693333333333334
+}
+{ 
+    "_id" : "Gambia", 
+    "acel_positivos" : 0.967
+}
+{ 
+    "_id" : "Taiwan", 
+    "acel_positivos" : 0.9668333333333333
+}
+{ 
+    "_id" : "Switzerland", 
+    "acel_positivos" : 0.9648333333333333
+}
+{ 
+    "_id" : "Pakistan", 
+    "acel_positivos" : 0.9546666666666667
+}
+{ 
+    "_id" : "Angola", 
+    "acel_positivos" : 0.953
+}
+{ 
+    "_id" : "Denmark", 
+    "acel_positivos" : 0.9391666666666667
+}
+{ 
+    "_id" : "Mali", 
+    "acel_positivos" : 0.9308333333333334
+}
+{ 
+    "_id" : "Lithuania", 
+    "acel_positivos" : 0.9306666666666666
+}
+{ 
+    "_id" : "Iceland", 
+    "acel_positivos" : 0.9239999999999999
+}
+{ 
+    "_id" : "Italy", 
+    "acel_positivos" : 0.9208333333333333
+}
+{ 
+    "_id" : "Iran", 
+    "acel_positivos" : 0.9156666666666666
+}
+{ 
+    "_id" : "Luxembourg", 
+    "acel_positivos" : 0.9145000000000001
+}
+{ 
+    "_id" : "Yemen", 
+    "acel_positivos" : 0.9126666666666667
+}
+{ 
+    "_id" : "Trinidad and Tobago", 
+    "acel_positivos" : 0.912
+}
+{ 
+    "_id" : "Bosnia and Herzegovina", 
+    "acel_positivos" : 0.9108333333333333
+}
+{ 
+    "_id" : "Equatorial Guinea", 
+    "acel_positivos" : 0.9086666666666667
+}
+{ 
+    "_id" : "Liechtenstein", 
+    "acel_positivos" : 0.907
+}
+{ 
+    "_id" : "Moldova", 
+    "acel_positivos" : 0.9053333333333333
+}
+{ 
+    "_id" : "Benin", 
+    "acel_positivos" : 0.8991666666666667
+}
+{ 
+    "_id" : "Iraq", 
+    "acel_positivos" : 0.8928333333333334
+}
+{ 
+    "_id" : "Greece", 
+    "acel_positivos" : 0.8918333333333333
+}
+{ 
+    "_id" : "Romania", 
+    "acel_positivos" : 0.8915000000000001
+}
+{ 
+    "_id" : "Sudan", 
+    "acel_positivos" : 0.8905
+}
+{ 
+    "_id" : "Uganda", 
+    "acel_positivos" : 0.8903333333333333
+}
+{ 
+    "_id" : "Bhutan", 
+    "acel_positivos" : 0.8883333333333333
+}
+{ 
+    "_id" : "Poland", 
+    "acel_positivos" : 0.8875
+}
+{ 
+    "_id" : "India", 
+    "acel_positivos" : 0.8858333333333334
+}
+{ 
+    "_id" : "Ukraine", 
+    "acel_positivos" : 0.8833333333333333
+}
+{ 
+    "_id" : "Uzbekistan", 
+    "acel_positivos" : 0.8768333333333334
+}
+{ 
+    "_id" : "Palestine", 
+    "acel_positivos" : 0.8748333333333334
+}
+{ 
+    "_id" : "North Macedonia", 
+    "acel_positivos" : 0.8736666666666667
+}
+{ 
+    "_id" : "New Zealand", 
+    "acel_positivos" : 0.8736666666666667
+}
+{ 
+    "_id" : "Austria", 
+    "acel_positivos" : 0.8716666666666666
+}
+{ 
+    "_id" : "South Sudan", 
+    "acel_positivos" : 0.8669999999999999
+}
+{ 
+    "_id" : "Kyrgyzstan", 
+    "acel_positivos" : 0.8623333333333334
+}
+{ 
+    "_id" : "Serbia", 
+    "acel_positivos" : 0.8584999999999999
+}
+{ 
+    "_id" : "Myanmar", 
+    "acel_positivos" : 0.846
+}
+{ 
+    "_id" : "Algeria", 
+    "acel_positivos" : 0.8456666666666667
+}
+{ 
+    "_id" : "Bangladesh", 
+    "acel_positivos" : 0.8453333333333333
+}
+{ 
+    "_id" : "Hungary", 
+    "acel_positivos" : 0.8450000000000001
+}
+{ 
+    "_id" : "Jordan", 
+    "acel_positivos" : 0.8296666666666667
+}
+{ 
+    "_id" : "Georgia", 
+    "acel_positivos" : 0.8293333333333333
+}
+{ 
+    "_id" : "Bulgaria", 
+    "acel_positivos" : 0.824
+}
+{ 
+    "_id" : "Morocco", 
+    "acel_positivos" : 0.8211666666666667
+}
+{ 
+    "_id" : "Croatia", 
+    "acel_positivos" : 0.8121666666666667
+}
+{ 
+    "_id" : "Armenia", 
+    "acel_positivos" : 0.7955
+}
+{ 
+    "_id" : "Kenya", 
+    "acel_positivos" : 0.7936666666666666
+}
+{ 
+    "_id" : "Nepal", 
+    "acel_positivos" : 0.7921666666666667
+}
+{ 
+    "_id" : "Belize", 
+    "acel_positivos" : 0.7895
+}
+{ 
+    "_id" : "Sao Tome and Principe", 
+    "acel_positivos" : 0.785
+}
+{ 
+    "_id" : "Afghanistan", 
+    "acel_positivos" : 0.7728333333333333
+}
+{ 
+    "_id" : "Seychelles", 
+    "acel_positivos" : 0.7711666666666667
+}
+{ 
+    "_id" : "Antigua and Barbuda", 
+    "acel_positivos" : 0.769
+}
+{ 
+    "_id" : "Cambodia", 
+    "acel_positivos" : 0.7678333333333334
+}
+{ 
+    "_id" : "Turkey", 
+    "acel_positivos" : 0.7100000000000001
+}
+{ 
+    "_id" : "Azerbaijan", 
+    "acel_positivos" : 0.7078333333333333
+}
+{ 
+    "_id" : "Cameroon", 
+    "acel_positivos" : 0.6168333333333333
+}
+{ 
+    "_id" : "Madagascar", 
+    "acel_positivos" : 0.5636666666666666
+}
+{ 
+    "_id" : "Somalia", 
+    "acel_positivos" : 0.5051666666666667
+}
+{ 
+    "_id" : "Tajikistan", 
+    "acel_positivos" : 0.4858333333333333
+}
+{ 
+    "_id" : "Papua New Guinea", 
+    "acel_positivos" : 0.466
+}
+{ 
+    "_id" : "Congo", 
+    "acel_positivos" : 0.41283333333333333
+}
+{ 
+    "_id" : "Mauritius", 
+    "acel_positivos" : 0.3046666666666667
+}
+{ 
+    "_id" : "Liberia", 
+    "acel_positivos" : 0.2818333333333333
+}
+{ 
+    "_id" : "Central African Republic", 
+    "acel_positivos" : 0.25
+}
+{ 
+    "_id" : "Brunei", 
+    "acel_positivos" : 0.2445
+}
+{ 
+    "_id" : "Guinea-Bissau", 
+    "acel_positivos" : 0.23333333333333334
+}
+{ 
+    "_id" : "Dominica", 
+    "acel_positivos" : 0.2225
+}
+{ 
+    "_id" : "Nicaragua", 
+    "acel_positivos" : 0.19033333333333333
+}
+{ 
+    "_id" : "Grenada", 
+    "acel_positivos" : 0.10146341463414635
+}
+{ 
+    "_id" : "Tanzania", 
+    "acel_positivos" : 0.0
+}
+{ 
+    "_id" : "Guernsey", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Isle of Man", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Turks and Caicos Islands", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Samoa", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Marshall Islands", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "North America", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Micronesia (country)", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Solomon Islands", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Hong Kong", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Vatican", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Fiji", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "European Union", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Gibraltar", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Europe", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Faeroe Islands", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "South America", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Saint Kitts and Nevis", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Asia", 
+    "acel_positivos" : null
+}
+{ 
+    "_id" : "Vanuatu", 
+    "acel_positivos" : null
+}
