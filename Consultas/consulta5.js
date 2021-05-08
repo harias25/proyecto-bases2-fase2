@@ -5,27 +5,25 @@ db.getCollection("proyecto").aggregate(
 		// Stage 1
 		{
 			$match: {
-			    // enter query here
-			    "date" : {
-			        $gt:ISODate("2020-12-01"), 
-					$lt:ISODate("2021-01-31")
-					}   
+			    "date":{
+			            $gt:ISODate("2020-02-24"), 
+			    		$lt:ISODate("2021-05-24")
+			    	} 
 			}
 		},
 
 		// Stage 2
 		{
 			$group: {
-			    _id: "$location",
-			    "acel_positivos" : { "$avg": "$reproduction_rate"}
+			     _id: "$location",
+			    "contagios" : { "$avg": "$positive_rate"}
 			}
 		},
 
 		// Stage 3
 		{
 			$sort: {
-			    "acel_positivos": -1.0
-			    
+			    "contagios": -1.0
 			}
 		},
 	],
